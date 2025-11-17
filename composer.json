@@ -14,7 +14,7 @@
         "drupal/devel_php": "1.7.0",
         "drupal/drupal-extension": "5.0.0",
         "drupal/kint-kint": "^2.1",
-        "drupal/upgrade_status": "4.3.5",
+        "drupal/upgrade_status": "^4.3.5",
         "mglaman/phpstan-drupal": "1.3.1",
         "mikey179/vfsstream": "^1.6.11",
         "palantirnet/drupal-rector": "0.20.3",
