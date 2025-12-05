@@ -10,7 +10,7 @@
         "dmore/behat-chrome-extension": "1.4.0",
         "drevops/behat-screenshot": "1.5.0",
         "drupal/coder": "8.3.26",
-        "drupal/devel": "5.4.0",
+        "drupal/devel": "^5.5.0",
         "drupal/devel_php": "1.7.0",
         "drupal/drupal-extension": "5.0.0",
         "drupal/kint-kint": "^2.1",
